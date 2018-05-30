@@ -38,5 +38,6 @@ public class Clase2 {
             }
             System.out.println("La Palabra"+ palabra +"Palindromo");
         }
+        //......
     }
 }
